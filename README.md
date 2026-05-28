@@ -26,25 +26,25 @@ That meant starting from zero — raw stock price files from NSE, a blank MySQL 
 ## 📸 Dashboard Preview
 
 ### Portfolio Analysis — Main Dashboard
-![Portfolio Dashboard](01_portfolio_dashboard.png.PNG)
+![Portfolio Dashboard](screenshots/01_portfolio_dashboard.png.PNG)
 
 ### AI Signal Engine — ChatGPT-Powered Signals
-![AI Signal Engine](02_ai_signal_engine.png.PNG)
+![AI Signal Engine](screenshots/02_ai_signal_engine.png.PNG)
 
 ### News Digest & Portfolio Narrative
-![News Digest](03_news_digest.png.PNG)
+![News Digest](screenshots/03_news_digest.png.PNG)
 
 ### Portfolio Narrative & Rebalancing Verdict
-![Portfolio Narrative](04_portfolio_narrative.png.PNG)
+![Portfolio Narrative](screenshots/04_portfolio_narrative.png.PNG)
 
 ### Helper Sheet — KPI Formulas & Macro Inputs
-![Helper Sheet](05_helper_sheet.png.PNG)
+![Helper Sheet](screenshots/05_helper_sheet.png.PNG)
 
 ### Scenario Weights — Balanced vs Aggressive
-![Two Cases](06_two_cases.png.PNG)
+![Two Cases](screenshots/06_two_cases.png.PNG)
 
 ### Portfolio WACC & Weighted Returns
-![Portfolio WACC](07_portfolio_wacc.png.PNG)
+![Portfolio WACC](screenshots/07_portfolio_wacc.png.PNG)
 
 ---
 
