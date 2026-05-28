@@ -43,8 +43,8 @@ That meant starting from zero — raw stock price files from NSE, a blank MySQL 
 ### Scenario Weights — Balanced vs Aggressive
 ![Two Cases](screenshots/06_two_cases.png.PNG)
 
-### Portfolio WACC & Weighted Returns
-![Portfolio WACC](screenshots/07_portfolio_wacc.png.PNG)
+### Portfolio Expected Returns
+![Portfolio WACC](screenshots/07_portfolio_return.png)
 
 ---
 
