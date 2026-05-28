@@ -1,4 +1,4 @@
-# 📊 AI-Augmented Portfolio Intelligence System
+# 📊 Portfolio Intelligence & Scenario Analysis Dashboard
 ### [NSE India · Feb–May 2026 · ₹1,00,000 Portfolio](Portfolio_Intelligence_Dashboard.FINAL2.xlsx)
 
 ![Excel](https://img.shields.io/badge/Excel-Financial_Model-217346?style=flat&logo=microsoftexcel&logoColor=white)
