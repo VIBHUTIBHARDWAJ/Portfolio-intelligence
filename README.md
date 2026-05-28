@@ -151,7 +151,7 @@ Used the ChatGPT for Excel Add-in with structured prompts to generate three inte
 
 ## 🛠️ Skills Demonstrated
 
-`MySQL` · `Power Query` · `CAPM` · `Portfolio Beta` · `Volatility Analysis` · `Scenario Modelling` · `WACC` · `ChatGPT Prompt Engineering` · `Excel Dashboard Design` · `Financial Storytelling`
+`MySQL` · `Power Query` · `CAPM` · `Portfolio Beta` · `Volatility Analysis` · `Scenario Modelling` · `WACC` · `Excel Dashboard Design` · `Financial Storytelling`
 
 ---
 
