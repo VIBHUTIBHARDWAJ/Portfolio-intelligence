@@ -182,7 +182,7 @@ on the AI Signal Engine sheet
 
 ## 👤 Author
 
-**Vibhuti Bhardwaj** — B.Com (Hons) · Financial Analytics · Data-Driven Decision Making
+**Vibhuti Bhardwaj** — B.Com (Hons) graduate with a keen interest in financial analysis and data-driven decision-making. Currently building skills in financial modelling, data visualization, and business analytics.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vibhutibh007-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/vibhutibh007/)
 [![GitHub](https://img.shields.io/badge/GitHub-VIBHUTIBHARDWAJ-181717?style=flat&logo=github)](https://github.com/VIBHUTIBHARDWAJ)
